@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  'first post'
+title:  'First Post'
 date:   '2023-07-23 19:32:40'
 categories: intro
 ---
