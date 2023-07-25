@@ -8,11 +8,11 @@ permalink: /about/
 
 me :) 
 
-Hello 👋, I am Omair. Currently a junior at Saint Louis University majoring in Computer Science. Always wanted to write, here is my blog. if you like it email me. my email is at the footer. 
+Hello 👋, I am Omair. Currently a junior at Saint Louis University majoring in Computer Science. I have varying intersts in hardware and software. Always wanted to write cool shit, here is my blog. inspiration, https://geohot.github.io/blog/ 
 
-My girlfriend is such a huge source of inspiration for my work and I love her a lottttttt.
+email me for any queries.
 
-I will write about many things
+I plan to write about many things
 
 - coding
     - adventofcode
@@ -21,6 +21,16 @@ I will write about many things
     - drones
     - etc
 - my life and its adventures
+
+
+
+
+
+
+
+
+
+
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
