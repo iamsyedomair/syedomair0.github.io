@@ -8,7 +8,7 @@ permalink: /about/
 
 me :) 
 
-Hello 👋, I am Omair. Currently a junior at Saint Louis University majoring in Computer Science. I have varying intersts in hardware and software. Always wanted to write cool shit, here is my blog. inspiration, ![the singularity is nearer](https://geohot.github.io/blog/)
+Hello 👋, I am Omair. Currently a junior at Saint Louis University majoring in Computer Science. I have varying intersts in hardware and software. Always wanted to write cool shit, here is my blog. inspiration, [the singularity is nearer](https://geohot.github.io/blog/)
 
 email me for any queries.
 

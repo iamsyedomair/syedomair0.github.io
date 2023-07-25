@@ -28,4 +28,4 @@ with watery eyes, I bid adieu to the casualties as they retire to the dustbin
 
 bittersweet moment after discovering the hundreth way to make eggs -- burnt.
 
-inspiration: ![rohan joshi](https://www.instagram.com/p/CRibOR2lAO2/)
+inspiration: [rohan joshi](https://www.instagram.com/p/CRibOR2lAO2/)
