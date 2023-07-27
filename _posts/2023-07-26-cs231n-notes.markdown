@@ -19,7 +19,7 @@ data-driven approach >> hardcoding an algorithm to recognizing an object
 L1 distance -> 38.6% accuracy
 L2 distance -> 35.4% accuracy
 
-![L1](/assets/L1)
+![L1](/assets/L1.jpg)
 
 L1 vs L2 - L2 is more tighter in scoring the difference between two vectors. special subset of p-norm
 
@@ -28,14 +28,14 @@ L1 vs L2 - L2 is more tighter in scoring the difference between two vectors. spe
 
 instead of finding the single closest image in the training set, we will find the top k closest images, and have them vote on the label of the test image. 
 
-![knn](/assets/knn)
+![knn](/assets/knn.jpg)
 
 k=1 is essentially the basic "nearest neighbor classifier". 
 
 k is a hyperparameter. 
 hyperparameters should be configured through cross-validation (i.e. picking an arbitrary small percentage of the training data to tune which hyperparameters work best)
 
-![folds](/assets/folds)
+![folds](/assets/fold.jpg)
 
 5-fold cross-validation - 4 for training 1 for validation
 
@@ -44,7 +44,3 @@ more hyperparameters bigger validation splits
 cons - cheap to train but more expensive to test
 
 useful when data is low dimensional. 
-
-## Linear Classification
-
-
