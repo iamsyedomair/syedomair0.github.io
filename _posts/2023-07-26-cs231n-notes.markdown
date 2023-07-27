@@ -41,6 +41,6 @@ hyperparameters should be configured through cross-validation (i.e. picking an a
 
 more hyperparameters bigger validation splits
 
-cons - cheap to train but more expensive to test
+cons - cheap to train but expensive to test
 
 useful when data is low dimensional. 
