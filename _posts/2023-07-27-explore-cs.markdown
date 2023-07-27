@@ -10,4 +10,6 @@ tbh, first instinct, why??? 🙃. but it seems like a good idea for me to revisi
 
 No geekforgeeks or cplusplus.com or any other website that has been seo'd to death 😩. like seriously seo's need to chill. Hopefully the problem is solved in the next few years. but thats for another post
 
-in the order of coolness < subjective! ofc :) >
+in the order of coolness (subjective! ofc 😉)
+
+
