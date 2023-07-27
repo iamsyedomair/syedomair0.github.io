@@ -35,7 +35,7 @@ k=1 is essentially the basic "nearest neighbor classifier".
 k is a hyperparameter. 
 hyperparameters should be configured through cross-validation (i.e. picking an arbitrary small percentage of the training data to tune which hyperparameters work best)
 
-![folds](/assets/fold.jpg)
+![folds](/assets/folds.jpg)
 
 5-fold cross-validation - 4 for training 1 for validation
 
