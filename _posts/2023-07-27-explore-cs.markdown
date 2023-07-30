@@ -12,4 +12,54 @@ No geekforgeeks or cplusplus.com or any other website that has been seo'd to dea
 
 in the order of coolness (subjective! ofc 😉)
 
+common skills
+
+- Python 
+- JS
+- version control (git)
+
+# Blockchain
+
+Well we all know about Sam Altman's shitcoin. But theej
+
+- solidity
+- ethereum
+
+# Full Stack Web Development
+
+- MERN stack
+    - Mongo, Express, React, Node
+- DBMS
+
+# Data Engineers
+
+- data processing
+- creating data pipelines
+
+# AI and ML
+
+uff this one is huge
+
+- LLMs
+- Computer Vision
+- biotech
+- NLP
+- Deep Learning
+
+# Hardware 
+
+- Embedded programming
+
+# Front End development
+
+design the front side of websites
+
+# Back End development
+
+design the back end of website
+
+# CyberSecurity
+
+# Game Development
+
 
