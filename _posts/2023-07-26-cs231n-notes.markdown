@@ -44,3 +44,59 @@ more hyperparameters bigger validation splits
 cons - cheap to train but expensive to test
 
 useful when data is low dimensional. 
+
+### Linear Classification
+
+score function -> maps raw data to class scores
+loss function -> quantifies the agreement between the predicted scores and ground truth labels.
+
+### score function
+
+maps raw image pixels to class scores
+
+![linear classifier](/assets/linearClassifier.jpg)
+
+Interpreting it
+
+![interptered linear classifier](/assets/linearClassifierInterpreted.jpg)
+
+as template matching
+
+![template matching](/assets/templateMatching.jpg)
+
+#### bias trick 
+
+![bias trick](/assets/biasTrick.jpg)
+
+### loss function
+
+also known as cost function or objective. loss high, bad job. loss low, good job
+
+#### Multiclass Support Vector Machines (SVM)
+
+SVM "wants" the correct class for each image to have a score higher than the incorrect
+classes by a fixed hyperparameter (delta)
+
+![SVM vs Softmax](/assets/svmsoftmax.jpg)
+
+### Optimization
+
+three main components to neural networks. Score, Loss, Optimization. The goal of optimization
+is to find W(eights) such that minimize the loss function.
+
+- Random Search -> terrible 
+- random local search -> take the core idea from random search. "iterative refinement" 
+- gradients -> they tell us the slope of the loss function along every dimension
+
+the gradients tell us the direction whihch has the steepest rate of increase, but does not tell us
+how far alone this direction to step. another hyperparameter known as learning rate. 
+
+the algorithm to iteracively compute the gradient and perform a paremater update in the loop
+is known as **gradient descent**
+
+### Backpropogation
+
+The core problem: given a function **f(x)** where x is a vector of inputs and we are interested
+in computing *grad f(x)*
+
+
