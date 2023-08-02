@@ -32,8 +32,9 @@ instead of finding the single closest image in the training set, we will find th
 
 k=1 is essentially the basic "nearest neighbor classifier". 
 
-k is a hyperparameter. 
-hyperparameters should be configured through cross-validation (i.e. picking an arbitrary small percentage of the training data to tune which hyperparameters work best)
+k is a **hyperparameter**. 
+
+*hyperparameters* should be configured through cross-validation (i.e. picking an arbitrary small percentage of the training data to tune which hyperparameters work best)
 
 ![folds](/assets/folds.jpg)
 
@@ -48,6 +49,7 @@ useful when data is low dimensional.
 ### Linear Classification
 
 score function -> maps raw data to class scores
+
 loss function -> quantifies the agreement between the predicted scores and ground truth labels.
 
 ### score function
@@ -64,7 +66,7 @@ as template matching
 
 ![template matching](/assets/templateMatching.jpg)
 
-#### bias trick 
+#### *bias trick* 
 
 ![bias trick](/assets/biasTrick.jpg)
 
@@ -74,22 +76,22 @@ also known as cost function or objective. loss high, bad job. loss low, good job
 
 #### Multiclass Support Vector Machines (SVM)
 
-SVM "wants" the correct class for each image to have a score higher than the incorrect
-classes by a fixed hyperparameter (delta)
+**SVM** *wants* the correct class for each image to have a score higher than the incorrect
+classes by a fixed **hyperparameter**
 
 ![SVM vs Softmax](/assets/svmsoftmax.jpg)
 
 ### Optimization
 
-three main components to neural networks. Score, Loss, Optimization. The goal of optimization
-is to find W(eights) such that minimize the loss function.
+three main components to neural networks. ***Score***, ***Loss***, ***Optimization***. 
+The goal of **optimization** is to find W(eights) such that minimize the *loss function*.
 
-- Random Search -> terrible 
-- random local search -> take the core idea from random search. "iterative refinement" 
-- gradients -> they tell us the slope of the loss function along every dimension
+- **random search** -> terrible 
+- **random local search** -> take the core idea from random search. "iterative refinement" 
+- **gradients** -> they tell us the slope of the loss function along every dimension
 
-the gradients tell us the direction whihch has the steepest rate of increase, but does not tell us
-how far alone this direction to step. another hyperparameter known as learning rate. 
+the **gradients** tell us the direction whihch has the steepest rate of increase, but does not tell us
+how far alone this direction to step. another *hyperparameter* known as **learning rate**. 
 
 the algorithm to iteracively compute the gradient and perform a paremater update in the loop
 is known as **gradient descent**
