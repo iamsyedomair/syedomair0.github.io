@@ -21,8 +21,7 @@
 title: Well Unsaid
 email: hello@blastfromthepast.dev
 description: >- # this means to ignore newlines until "baseurl:"
-  this is my personal blog |
-  I sometimes go by cr@ft!-c0der
+  free will is an illusion 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: iamsyedomair
