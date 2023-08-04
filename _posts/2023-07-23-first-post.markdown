@@ -1,31 +1,36 @@
 ---
 layout: post
-title:  'First Post'
+title:  'Eggsploration: A Culinary Odyssey'
 date:   '2023-07-23 19:32:40'
 categories: intro
 ---
 
-# something I wrote during the pandemic lockdown
+# *Eggsploration: A Culinary Odyssey*
 
-At first, the silence was quite friendly
+In friendly silence, the kitchen stood,
+Unaware of the chefs' heated feud,
+But as I stepped in, a truth unveiled,
+My culinary skills utterly paled.
 
-not waking to the quarrel between the head chef and the sous chef
+Imposter syndrome crept into my mind,
+I turned to what most people find,
+When lost in the realms of the unknown,
+A refuge for the seeds unsown.
 
-but realizing that I don't have the tiniest ability to cook
+Amidst the purple hues arrayed,
+I sighed, "There's only so much you can do," I said,
+To cook an egg, a simple feat,
+Yet now, it seemed like an impossible feat.
 
-the imposter syndrome kicked in and once again I turn to what anyone
-turns to when they don't know anything
+The kitchen waited, in a state of rest,
+Every spoon, every jar at its post, the best,
+Cooking breakfast, a battlefield indeed,
+With each attempt, a new casualty freed.
 
-looking at so much purple, I say to myself - there are only so many ways to cook an egg
+Bidding farewell to the burnt mistakes,
+My heart wavered, a mix of joys and aches,
+Discovering the hundredth egg endeavor,
+A bittersweet moment, a taste to remember.
 
-The kitchen was the way it was left
-
-every spoon, every jar waiting at thair battle stations
-
-after all, cooking breakfast was nothing short of a war
-
-with watery eyes, I bid adieu to the casualties as they retire to the dustbin
-
-bittersweet moment after discovering the hundreth way to make eggs -- burnt.
 
 inspiration: [rohan joshi](https://www.instagram.com/p/CRibOR2lAO2/)
