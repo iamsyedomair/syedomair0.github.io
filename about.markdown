@@ -10,7 +10,7 @@ me :)
 
 Hello 👋, I am Omair, a junior at Saint Louis University dabbling in the world of Computer Science.
 
-varying intrests
+varying interests
 
 I like to read and I read almost anything I get my hands on. suprisingly, still lots of good writers/thinkers living in this era. 
 
