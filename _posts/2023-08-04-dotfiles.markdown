@@ -7,9 +7,9 @@ title: 'Dotfiles'
 
 ## Editors
 
-I use the happy hacking color sceme and I use everywhere, from vim to vscode. 
+I use the [happy hacking](https://github.com/yorickpeterse/happy_hacking.vim/blob/main/colors/happy_hacking.vim) color sceme and I use it everywhere, from vim to vscode. 
 
-I use vim plug for a lot of my vim plugins. some of the most notable helpful ones are
+I use [vim plug](https://github.com/junegunn/vim-plug) for a lot of my vim plugins. some of the most helpful ones are
 
 ```vim
 Plug 'preservim/nerdtree'
@@ -23,8 +23,7 @@ Plug 'davidhalter/jedi-vim'
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 ```
 
-some more vim configs that make sense. 
-
+vim configs that just make sense. 
 
 ```vim
 syntax on
@@ -57,20 +56,21 @@ set encoding=UTF-8
 inoremap jk <ESC>
 ```
 
-Tabs >>>>> Spaces
+Tabs > > > Spaces
 
 ## Shell
 
-I use zsh. actually I use oh-my-zsh.
+I use zsh. actually I use [oh-my-zsh](https://ohmyz.sh/) which is the coolest wrapper for zsh.
 
 I use the [oxide](https://github.com/dikiaap/dotfiles/blob/master/.oh-my-zsh/themes/oxide.zsh-theme) theme
 
+the most useful plugins I use are '[zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)' and '[zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)' saves so much headache retyping
 
-## browswrs
+## web
 
-I was an avid firefox fan but recently switched to chrome for its superior UI and its speed. still eats up a lot of ram tho
+I was an avid firefox fan but recently switched to chrome for its far superior UI/UX for devs and its speed. still eats up a lot of ram tho
 
-I have the clear cookies option every time I restart the browser which saves a ton of RAM and space.
+I have the clear cookies option every time I restart the browser which saves a ton of space and makes it lightweight
 
 I have Ublock origin adblocker. you should get it too. its free and I swear it saves you a lot of embarassment in front of people or when you are screen sharing.
 
