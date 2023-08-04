@@ -27,4 +27,5 @@ will write a better bio soon. lots of interesting projects are in the pipeline o
 
 inspiration, [the singularity is nearer](https://geohot.github.io/blog/)
 
-![email](hello@blastfromthepast.dev) me for any queries.
+
+if you are an interesting person and like my blog, shoot me an email I'm pretty friendly. 
