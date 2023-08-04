@@ -5,7 +5,7 @@ title: 'Dotfiles'
 
 # My dotfiles
 
-## Editors
+## editor
 
 I use the [happy hacking](https://github.com/yorickpeterse/happy_hacking.vim/blob/main/colors/happy_hacking.vim) color sceme and I use it everywhere, from vim to vscode. 
 
@@ -58,7 +58,7 @@ inoremap jk <ESC>
 
 Tabs > > > Spaces
 
-## Shell
+## shell
 
 I use zsh. actually I use [oh-my-zsh](https://ohmyz.sh/) which is the coolest wrapper for zsh.
 
