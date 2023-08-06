@@ -20,7 +20,7 @@ Any form of humor and satire amuses me and any form it takes. blogs, podcasts, s
 
 spend an unhealthy amount of time on twitter(sorry, X 🙃) and hackernews and substack
 
-avid [music](https://music.youtube.com/playlist?list=PLOYfj180utAYl-hoi1nyRUB9qq2HfXBaQ&feature=share) fan... 
+avid [music](/assets/mini-player/index.html) fan... 
 
 Always felt like I should also contribute to this ecosystem so here is my blog. 
 

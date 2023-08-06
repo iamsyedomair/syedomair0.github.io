@@ -1,9 +1,12 @@
 ---
 layout: post
-title: 'music player'
-date: '2023-08-06 02:25:30'
+title:  'Adding a music player feature'
+date:   '2023-08-06 14:45:00'
 ---
 
-# a good looking music player
+[inspiration](https://codepen.io/JavaScriptJunkie/pen/qBWrRyg) for this mini-project.
 
 
+In a small weekend project, I added a small list of my [go-to songs](/assets/mini-player/index.html) in an interactive [music player](/assets/mini-player/index.html). I hope you like it
+
+![player](/assets/player.jpg)
