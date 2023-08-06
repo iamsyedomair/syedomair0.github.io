@@ -30,12 +30,9 @@ instagram_username: iamsyedomair
 
 # Build settings
 theme: minima
+skin: dark
 plugins:
   - jekyll-feed
-
-minima:
-  skin: dark
-  date_format: "%b %-d, %Y"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
