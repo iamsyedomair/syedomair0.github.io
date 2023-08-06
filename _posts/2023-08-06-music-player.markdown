@@ -10,3 +10,7 @@ date:   '2023-08-06 14:45:00'
 In a small weekend project, I added a small list of my [go-to songs](/assets/mini-player/index.html) in an interactive [music player](/assets/mini-player/index.html). I hope you like it
 
 ![player](/assets/player.jpg)
+
+<br>
+<br>
+ps: try this [link](stepoutofthematrix.glitch)
