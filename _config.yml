@@ -30,10 +30,11 @@ instagram_username: iamsyedomair
 
 # Build settings
 theme: minima
+#remote_theme: jekyll/minima
+
 plugins:
   - jekyll-feed
-
-font: courier
+    #  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
