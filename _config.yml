@@ -33,7 +33,8 @@ theme: minima
 #remote_theme: jekyll/minima
 
 fonts:
-  primary: Roboto Slab
+  primary: Roboto 
+
 
 plugins:
   - jekyll-feed
