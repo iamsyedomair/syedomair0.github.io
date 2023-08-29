@@ -43,7 +43,7 @@ on it.
     - I have a really fun story about the 'Arbuthnot's Data on Births' dataset.
 - drone algorithms
     - ugh someone make a pytorch version of the NeRF paper please. tensorflow is the worst. Google dev team should 
-      learn from Meta (formerly facebook) dev team.
+      learn from the Meta dev team.
 - LLM work maybe...?
 - more random stuff
 
