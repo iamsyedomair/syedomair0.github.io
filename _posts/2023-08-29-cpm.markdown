@@ -12,10 +12,10 @@ led me down to this rabbit hole of ad revenue analytics.
 
 CPM stands for Cost Per 1,000 impressions.
 
-What is an impression ? an ad impression is counted any time an ad is displayed in your youtube video.
+What is an impression ? Well an ad impression is counted any time an ad is displayed in a youtube video.
 
 lets see an example. a video is viewed 10,000 times. 20% of those views or 2000 of those views were views with a single ad and 10% of those were
-views with a double ad meaning you have 1000 views with a double ad. 2000(one ad) + 1000 x 2 (double ads) = 4000 ad impressions. So you have total
+views with a double ad meaning you have 1000 views with a double ad.  2000(one ad) + 1000 x 2 (double ads) = 4000 ad impressions. So you have total
 3000 monetized views but you have 4000 ad impressions.
 
 CPM's could be categorized by niche of the video. 
@@ -35,7 +35,7 @@ CPM's could be categorized by niche of the video.
 
 It is an intersting observation to see how the "how to make money online" has the higest CPM's. Since advertisers, value those kinds of videos
 very highly, I wonder if advertisers are actively trying to target that audience who regularly buy into the 'get rich quick' schemes. the advertisers
-probably target their gullibility... very much 'micheal scott' type people. Intersting...
+probably target their gullibility... very much 'micheal scott' type people. Interesting...
 
 Also, these might not be accurate numbers but could be good educated guesses to get revenue for for your favourite youtubers is this cpm method. 
 
@@ -44,27 +44,21 @@ pretty simple if you think about it. #views / 1000 x CPM = ~ revenue for the vid
 so mkbhd revealed on a podast that his playback-based CPM now was $11.90 and at the time of this writing, they posted three videos in the past 10 days 
 totalling 1.2 + 4.6 + 3.4 = 9.2 M views. 
 
-so if we wanted to see their revenue for the past 10 days. we could do 9,200,000/1,000 * 11.90 = ~$100,000
+so if we wanted to see their revenue for the past 10 days. we could do 9,200,000/1,000 x 11.90 = ~$100,000
 
-beware that number is a very rough estimate because CPM is per thousand monetized views like I mentioned before. so it could be a generally its 
-approximately 30-40% of the total views that are monetized but still 30-40% of 100,000 is like $30k to $40k ten days. No wonder they have such a high
-production quality. 
+beware that number is a very rough estimate because CPM is per thousand monetized views like I mentioned before. so its generally like
+30-40% of the total views approximately that are monetized but still 30-40% of 100,000 is like $30-40k per ten days. 
 
-I have always been fascinated by the production quality from mkbhd and it always seemed to shock me. Makes sense now. I mean their studio has a 
-$250,000 robot (looks so cool). Anyways, good for them. Point is, All the best to them since I always check out mkbhd videos before buying a new piece
-of tech and its always a detailed and thouroughly researched specs and benchmarks and nice little quirks that could ultimately persuade or dissuade
-into buying it given that competetiors make similar devices with almost the same specs. Very nice. 
+I guess we could do this with one of the most watched youtuber Mr Beast as well... 
 
-I guess we could do this with one of the most watched youtuber Mr beast as well... 
-
-from a lot of googling i find that his CPM is in the range of $7-$10. lets take $8.5.
+from a lot of googling I found that his CPM is in the range of $7-$10. lets take $8.5.
 
 his last month of videos had a views totalling 104 + 129 + 137 + 142 = 512 M views
 
-that would mean 512,000,000/ 1000 * 8 = ~$4 million
+that would mean 512,000,000/ 1000 x 8 = ~$4 million
 
 like i said, maybe its 30-40% of the total videos that were monetized so that would mean he made ~$1.5 million last month from ad revenue alone.
 
-people say he makes most of his channel makes majority of their money from sponsorships and brand deals so its definitely more than $1.5M
+people say he makes most of his channel makes majority of their money from sponsorships and brand deals so its definitely >> $1.5M
 
-It makes sense now, how they can afford to give away Lamborghinis which at most could cost $500,000. interesting right?
+It makes sense now, how they can afford to give away Lamborghinis which at most could cost $500,000. Interesting, right?
