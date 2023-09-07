@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'future plans for Well Unsaid'
+date: '2023-08-25 14:49:00'
+---
+
+my classes have officially started this week and it has been a fun week. I am taking intro to philosophy for the 
+second time *insert andy bernard relate meme* and taking my second semester of latin. 
+
+A friend might be working on a semester long LLM capstone project and I am hoping to work with him on it to. I wonder
+what Meta's LLama is and if we can create an end-to-end project with it. Hopefully it turns out good 🤞.
+
+I am thinking of starting a nice car modification project which will look super cool I think when it's done. lets see how 
+that turns out 
+
+this is a layout of the things I wish to write about. could act as a public announcement and a checklist so i can stay
+on it. 
+
+### this week
+
+- Car Mods 
+    - I am thinking of sticking a huge screen in the middle of my car and make it my personal infotainment system. more
+      details later
+- what is up with the US admitting so many international students?? 
+
+### ongoing throughout the semester
+
+- Distributed Systems 
+- maybe some statistics that I find fun 
+    - I have a really fun story about the 'Arbuthnot's Data on Births' dataset.
+- drone algorithms
+    - a pytorch version of the NeRF paper exists and I shall be working on that.
+- LLM work maybe...?
+- more random stuff
+
+maybe one or two posts a week is the schedule I am thinking. one on the weekend and one in the middle of the week 
+like wednesday or something. let me know if you the readers come across something interesting. my email is given down
+there. I paid extra to get that fancy email so please utilize it 😉
