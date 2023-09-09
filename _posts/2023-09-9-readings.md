@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""
+title: "Interesting readings"
 category: readings
 ---
 
