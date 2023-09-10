@@ -13,5 +13,6 @@ category: readings
 - [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html) by Peter Norvig
 - [Staring into the SIngularity](https://web.archive.org/web/20070613184827/http://yudkowsky.net/singularity.html) by Eliezer S. Yudkowsky
 - [The Last Question](https://users.ece.cmu.edu/~gamvrosi/thelastq.html) by Issac Asimov
+- [Smashing the Modern Stack for Fun and Profit](https://www.exploit-db.com/papers/13162) 
 
 This is pretty cool for now... more later
