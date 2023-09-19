@@ -26,3 +26,15 @@ entries:
 
   - title: rss
     url: feed.xml
+
+  - title: socials
+    entries:
+      - title: email @ hello@blastfromthepast.dev 
+      - title: instagram
+        url: https://www.instagram.com/iamsyedomair/
+      - title: twitter
+        url: https://twitter.com/iamsyedomair
+      - title: github
+        url: https://github.com/syedomair0/
+      - title: linkedin
+        url: https://www.linkedin.com/in/mahmood-syed-a099a9179/
