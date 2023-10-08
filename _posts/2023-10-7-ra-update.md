@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'october \'23 update'
+title: 'october 23 update'
 date: '2023-10-07 23:18:39'
 ---
 
