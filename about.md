@@ -7,13 +7,16 @@ title: About
 
 me :) 
 
+
 Hello, I am Omair, a sophomore at Saint Louis University dabbling in the world of Computer Science.
+
+my [resume](/assets/Mahmood_Syed_Resume.pdf)
 
 varying interests
 
-I like to read and I read almost anything I get my hands on. suprisingly, still lots of good writers/thinkers living in this era. 
+I like to read and I read almost anything I get my hands on. suprisingly, still lots of good writers/thinkers living in this era even after the advent of GPT and other llms. 
 
-I have an interesting collection of monthly issues of wired magazines. 
+I have an interesting collection of monthly issues of wired magazines dating back quite some time.
 
 Any form of humor and satire amuses me and any form it takes. blogs, podcasts, standup, news, thinkpeices, tweets... anything.
 
@@ -25,10 +28,6 @@ Always felt like I should also contribute to this writing ecosystem so here is m
 
 will write a better bio soon... 
 
-lots of interesting projects are in the pipeline once I am free of my internships, I shall get to them. 
-
-
 inspiration, [the singularity is nearer](https://geohot.github.io/blog/)
-
 
 if you are an interesting person and like my blog, shoot me an email I'm pretty friendly. 
